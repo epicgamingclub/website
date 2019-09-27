@@ -1,0 +1,7 @@
+body {
+    margin: 0;
+    background-color: #252525;
+    background-repeat: no-repeat;
+    background-image: url('../images/temp.jpg');
+    background-size: cover;
+}
