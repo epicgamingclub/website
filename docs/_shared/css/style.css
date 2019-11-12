@@ -1,0 +1,30 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,400italic);
+
+body {
+    color: #797979;
+    background: #eeeeee;
+    font-family: 'Lato', sans-serif;
+    font-size:1em !important;
+}
+
+h1,h2,h3 {
+    font-weight: 400;
+}
+
+img {
+    margin-top: 0.2em;
+}
+
+a, a:focus {
+    text-decoration: none;
+    outline: none;
+    outline: 0;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+li {
+    margin-top: 1em;
+}
